@@ -1,3 +1,8 @@
 <html>
+	<head>
+		<title>Bongu's ¹ä¹ö°Å</title>
+</head>
+<body>	
 <h1>lol?</h1>
+</body>
 </html>
